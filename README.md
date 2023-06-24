@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>Pure-HTML recipes website</h1>
-<p>Ragnarok Online assets wrapped on a 100% HTML site</p>
+<p>Ragnarok Online <em>real<em/> recipes on a 100% HTML site</p>
 <img src="./images/preview.png" width="750">
 <p><em>The simpler, the better</em></p>
 </div>
@@ -14,7 +14,7 @@ So I really wanted to give myself the constrain to work only with HTML, and make
 
 ## The inspiration
 
-I looked trough the internet to some Old School sites and really found out some inspiration there, mostly coming from [SpaceJam Website](https://www.spacejam.com/1996/),
+I looked trough the internet for some Old School sites and really found out some inspiration there, mostly coming from [SpaceJam Website](https://www.spacejam.com/1996/),
 really love the design idea, and started looking to the implementation, mostly inspecting the DOM. So that way I found they cleverly used Table Cells to align everything, plus the, nowadays depracated ```align="center" & valign="x"``` property.
 
 
