@@ -1,7 +1,7 @@
 <div align="center"> 
 <h1>Pure-HTML recipes website</h1>
 <p>Ragnarok Online assets wrapped on a 100% HTML site</p>
-<img src="./images/preview.png" width="400">
+<img src="./images/preview.png" width="750">
 <p><em>The simpler, the better</em></p>
 </div>
 
