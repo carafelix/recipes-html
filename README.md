@@ -8,24 +8,24 @@
 ## My very first proyect!
 
 The idea really came to be as the first proyect assignment from [The Odin Proyect](https://www.theodinproject.com/lessons/foundations-recipes), wich, usless to say, I'm following daily, deeply in love with it.
-Since it is, at is core, not a tutorial, that give some room to make my own take on it.
+Since it is, at is core, not a tutorial, that give some room to make my own take on it. <br />
 The Odin objective was simple, and afterwards I found out that most solutions were mostly plain blank html files, or they implemented some CSS to it.
 So I really wanted to give myself the constrain to work only with HTML, and make something that weren't just a few links and some text, but at the same time use HTML only.
 
 ## The inspiration
 
 I looked trough the internet to some Old School sites and really found out some inspiration there, mostly coming from [SpaceJam Website](https://www.spacejam.com/1996/),
-really love the design idea, and started looking to the implementation, mostly inspecting the DOM. So that way I found they cleverly used Table Cells to align everything, plus the, nowadays depracated ```align=""``` property.
+really love the design idea, and started looking to the implementation, mostly inspecting the DOM. So that way I found they cleverly used Table Cells to align everything, plus the, nowadays depracated ```align="center" & valign="x"``` property.
 
 
 ## Targeted Objectives
 
-✅ No CSS
-✅ Accessible from Mobile
-✅ Multiple pages
-✅ 'To the top' link
-✅ Pleasently looking background
-✅ 90's vibe.
+- No CSS ✅
+- Accessible from Mobile ✅
+- Multiple pages ✅
+- 'To the top' link ✅
+- Pleasently looking background ✅
+- 90's vibe ✅ 
 
 
 ## Disclaimer
