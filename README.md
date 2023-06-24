@@ -1,6 +1,6 @@
 <div align="center"> 
 <h1>Pure-HTML recipes website</h1>
-<p>Ragnarok Online <em>real<em/> recipes on a 100% HTML site</p>
+<p>Ragnarok Online <em>real<em/> recipes in a 100% HTML site</p>
 <img src="./images/preview.png" width="750">
 <p><em>The simpler, the better</em></p>
 </div>
